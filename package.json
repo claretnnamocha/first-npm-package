@@ -1,7 +1,7 @@
 {
-  "name": "first-npm-package",
+  "name": "claret-first-package",
   "version": "1.0.0",
-  "description": "Creat and deploy your first npm package",
+  "description": "Create and deploy your first npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,8 @@
   },
   "keywords": [
     "npm",
-    "contributing",
-    "to",
-    "registry",
-    "publishing",
+    "contributing to registry",
+    "publishing package",
     "js",
     "modules"
   ],
